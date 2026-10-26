@@ -1,0 +1,6 @@
+{
+  "name": "Laptronics Kenya - Laptop Catalogue Demo",
+  "description": "Modern, premium laptop catalogue sales demo showcasing high-performance workstations, gaming rigs, and Apple MacBook models for Laptronics Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
